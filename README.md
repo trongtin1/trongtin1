@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Tin!
 
-<!--
-**trongtin1/trongtin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at [Your School]  
+💻 Passionate about Java, Python, and AI/ML  
+🚀 Currently learning: React & Cloud Computing  
 
-Here are some ideas to get you started:
+### 🧰 Tech Stack
+- Languages: Java, Python, JavaScript, SQL  
+- Frameworks: Spring Boot, Flask, React  
+- Tools: Git, Docker, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Projects
+- 🔹 [Maze Solver in Python](https://github.com/yourusername/maze-solver)
+- 🔹 [Priority Round Robin Scheduler (Java)](https://github.com/yourusername/prr-scheduler)
+
+### 📊 GitHub Stats
+![Tin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+### 💬 Connect with me
+[LinkedIn](https://linkedin.com/in/yourlinkedin) | [Email](mailto:youremail@gmail.com)
