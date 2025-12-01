@@ -17,4 +17,4 @@
 ![Tin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 ### 💬 Connect with me
-[LinkedIn](https://linkedin.com/in/yourlinkedin) | [Email](mailto:youremail@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/trongtin1/) | [Email](mailto:trongtin24097735@gmail.com)
