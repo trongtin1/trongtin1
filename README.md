@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>Passionate about React, .NET, SQL Server, C#</h3>
-  <p>Currently learning: <b>React & Cloud Computing</b></p>
+  <p>Currently learning: <b>React & .NET</b></p>
 </div>
 
 <div align="center">
