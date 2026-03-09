@@ -5,9 +5,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Hi+I'm+Nguyen+Trong+Tin;Code. Build. Improve. Repeat." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi%2C+I'm+Nguyen+Trong+Tin+;Code.+Build.+Improve.+Repeat." />
 </div>
 
 <!-- Social Badges -->
