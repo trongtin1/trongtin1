@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi%2C+I'm+Nguyen+Trong+Tin+;Code.+Build.+Improve.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi%2C+I'm+Nguyen+Trong+Tin+;Code%2C+Build%2C+Improve%2C+Repeat" />
 </div>
 
 <!-- Social Badges -->
@@ -88,6 +88,10 @@
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=trongtin1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=a855f7&text_color=ec4899" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=trongtin1&theme=highcontrast&hide_border=true&background=0D1117&ring=6C63FF&fire=ec4899&currStreakLabel=a855f7&sideLabels=6C63FF&dates=ec4899" alt="GitHub Streak"/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongtin1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ec4899" alt="Top Languages"/>
 </div>
 
 ---
