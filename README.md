@@ -118,20 +118,5 @@
   </picture>
 </div>
 
----
 
-<!-- Connect Section -->
 
-## Let's Connect
-
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Website-trongtin--portfolio.vercel.app-6C63FF?style=for-the-badge)](https://trongtin-portfolio.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-a855f7?style=for-the-badge)](mailto:trongtin24097735@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-trongtin1-ec4899?style=for-the-badge)](https://github.com/trongtin1)
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:a855f7,100:ec4899&height=120&section=footer"/>
-</div>
