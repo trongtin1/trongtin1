@@ -8,26 +8,32 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi%2C+I'm+Nguyen+Trong+Tin+;Code%2C+Build%2C+Improve%2C+Repeat" />
 </div>
 
-<!-- Social Badges -->
-<div align="center">
-  <a href="https://trongtin-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:trongtin24097735@gmail.com">
-    <img src="https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/trongtin1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trongtin1&label=Profile%20views&color=0e75b6&style=flat" alt="trongtin1" />
+  <img src="https://img.shields.io/github/followers/trongtin1?label=Followers&style=flat&color=0e75b6" alt="followers" />
+</p>
 
 <br/>
 
-## What I Do
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- Developing **modern web projects**
-- Learning **AI**
-- Fun fact: **Code at night runs faster than code during the day**
+### 👨💻 About Me
+
+- 🎓 B.Sc. Software Engineering — **Eastern International University**
+- 💬 Ask me about **React, Next.js, TypeScript, NestJS**
+- 📫 **trongtin24097735@gmail.com**
+- ⚡ Fun fact: **I think I'm funny — my code disagrees!**
+
+</td>
+<td valign="top" width="50%">
+
+<img src="image/giphy.gif" width="100%" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -37,61 +43,56 @@
 
 <div align="center">
 
-|  #  | Project             | Description                                                                                       | Tech Stack                         |                                                            Link                                                            |
-| :-: | ------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------- | :------------------------------------------------------------------------------------------------------------------------: |
-|  1  | **Ecommerce Shoe**  | Full-stack e-commerce platform with 3D visualization, AI features, real-time chat & VNPAY payment | React, .NET 8, FastAPI, SQL Server |  [![Repo](https://img.shields.io/badge/-Repo-6C63FF?style=flat-square&logo=github)](https://github.com/trongtin1/project)  |
-|  2  | **GiaPhaHub**       | Family genealogy management application                                                           | TypeScript, CSS                    | [![Repo](https://img.shields.io/badge/-Repo-a855f7?style=flat-square&logo=github)](https://github.com/trongtin1/GiaPhaHub) |
-|  3  | **Movie Streaming** | Course project with server-side rendering                                                         | TypeScript, JavaScript, EJS        |  [![Repo](https://img.shields.io/badge/-Repo-6C63FF?style=flat-square&logo=github)](https://github.com/trongtin1/cse311)   |
+| #   | Project              | Description                                                                                       | Tech Stack                         | Link                                                                                                                             |
+| --- | -------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Court Management** | Court management application for booking and managing sport courts                                | React, .NET 8, SQL Server          | [![Repo](https://img.shields.io/badge/-Repo-6C63FF?style=flat-square&logo=github)](https://github.com/trongtin1/CourtManagement) |
+| 2   | **Ecommerce Shoe**   | Full-stack e-commerce platform with 3D visualization, AI features, real-time chat & VNPAY payment | React, .NET 8, FastAPI, SQL Server | [![Repo](https://img.shields.io/badge/-Repo-6C63FF?style=flat-square&logo=github)](https://github.com/trongtin1/project)         |
+| 3   | **GiaPhaHub**        | Family genealogy management application                                                           | TypeScript, CSS                    | [![Repo](https://img.shields.io/badge/-Repo-a855f7?style=flat-square&logo=github)](https://github.com/trongtin1/GiaPhaHub)       |
 
 </div>
 
 ---
 
-<!-- Tech Stack -->
+<!-- Tech Stack & Top Languages -->
 
-## Tech Stack
+## 🛠️ Tech Stack & Analytics
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="55%">
 
-### Frontend
+### 💻 Technologies & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
-</p>
+- **Frontend:**
+  <p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" /></p>
+- **Backend:**
+  <p><img src="https://skillicons.dev/icons?i=dotnet,java,nodejs,express&theme=dark" /></p>
+- **Database:**
+  <p><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres&theme=dark" /></p>
+- **Tools & DevOps:**
+  <p><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman&theme=dark" /></p>
 
-### Backend
+</td>
+<td valign="top" width="45%" align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,java,nodejs,express&theme=dark" />
-</p>
+### 📊 Top Languages
 
-### Database
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongtin1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ec4899" alt="Top Languages" width="100%"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlserver&theme=dark" />
-</p>
-
-### Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman&theme=dark" />
-</p>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 <!-- GitHub Stats -->
 
-## GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=trongtin1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=a855f7&text_color=ec4899" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=trongtin1&theme=highcontrast&hide_border=true&background=0D1117&ring=6C63FF&fire=ec4899&currStreakLabel=a855f7&sideLabels=6C63FF&dates=ec4899" alt="GitHub Streak"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongtin1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ec4899" alt="Top Languages"/>
 </div>
 
 ---
@@ -117,6 +118,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
-
-
-
