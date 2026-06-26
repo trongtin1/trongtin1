@@ -15,7 +15,7 @@
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -57,7 +57,7 @@
 
 ## 🛠️ Tech Stack & Analytics
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="55%">
 
