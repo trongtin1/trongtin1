@@ -18,22 +18,6 @@
 
 <br/>
 
-<!-- ======================================================= -->
-<!--                 STATUS & QUICK LINKS                    -->
-<!-- ======================================================= -->
-<p align="center">
-  <a href="https://trongtin-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-trongtin--portfolio.vercel.app-0284C7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1120" alt="Live Portfolio" />
-  </a>
-  <a href="mailto:trongtin24097735@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-trongtin24097735%40gmail.com-0284C7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/trongtin">
-    <img src="https://img.shields.io/badge/LINKEDIN-Nguyen_Trong_Tin-0284C7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-0284C7?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0B1120" alt="Status" />
-  <img src="https://komarev.com/ghpvc/?username=trongtin1&label=PROFILE_VIEWS&color=0284c7&style=for-the-badge&labelColor=0B1120" alt="Profile views" />
-</p>
 
 <!-- ======================================================= -->
 <!--                 AI & ENGINEERING MOTTO                  -->
