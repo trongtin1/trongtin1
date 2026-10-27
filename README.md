@@ -211,26 +211,8 @@
 
 ---
 
-<!-- ======================================================= -->
-<!--                 CONNECT & FOOTER                        -->
-<!-- ======================================================= -->
-<div align="center">
 
-### 📬 Connect & Collaborate
 
-<p>
-  <a href="https://trongtin-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-0284C7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B1120" alt="Portfolio Website" />
-  </a>
-  &nbsp;
-  <a href="mailto:trongtin24097735@gmail.com">
-    <img src="https://img.shields.io/badge/SEND_EMAIL-0284C7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120" alt="Send Email" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/trongtin">
-    <img src="https://img.shields.io/badge/LINKEDIN-0284C7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" alt="Connect LinkedIn" />
-  </a>
-</p>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
