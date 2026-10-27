@@ -201,9 +201,4 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
-
-<p>
-  <sub>Designed &amp; Developed with Modern Engineering Aesthetics • Built by <b>Nguyen Trong Tin</b></sub>
-</p>
-
 </div>
